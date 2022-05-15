@@ -1,0 +1,25 @@
+
+.nav-element {
+    background-color: blue;
+}
+
+.card {
+    background-image: url("https://assets.ccbp.in/frontend/responsive-website/landing-section-bg.png");
+    height: 100vh;
+    background-size: cover;
+    text-align: center;
+    
+}
+
+.image {
+    height: 8vh;
+    width: 30vh;
+}
+
+.sub-heading {
+    color: #FFDDA9;
+}
+
+.paragraph {
+    color: white;
+}
